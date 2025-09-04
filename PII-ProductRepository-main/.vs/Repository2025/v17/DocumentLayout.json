@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\UTN\\---Repo-Github---\\--Semana_3-ABMC_Product\u002BIngredientes\\PII-ProductRepository-main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3388EA97-FF6A-4780-8190-C62CCC1463BF}|Repository2025.csproj|D:\\UTN\\---Repo-Github---\\--Semana_3-ABMC_Product\u002BIngredientes\\PII-ProductRepository-main\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{3388EA97-FF6A-4780-8190-C62CCC1463BF}|Repository2025.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3388EA97-FF6A-4780-8190-C62CCC1463BF}|Repository2025.csproj|d:\\utn\\---repo-github---\\--semana_3-abmc_product\u002Bingredientes\\pii-productrepository-main\\db_almacen_20250905.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{3388EA97-FF6A-4780-8190-C62CCC1463BF}|Repository2025.csproj|solutionrelative:db_almacen_20250905.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3388EA97-FF6A-4780-8190-C62CCC1463BF}|Repository2025.csproj|d:\\utn\\---repo-github---\\--semana_3-abmc_product\u002Bingredientes\\pii-productrepository-main\\db_almacen_20250901.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{3388EA97-FF6A-4780-8190-C62CCC1463BF}|Repository2025.csproj|solutionrelative:db_almacen_20250901.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3388EA97-FF6A-4780-8190-C62CCC1463BF}|Repository2025.csproj|D:\\UTN\\---Repo-Github---\\--Semana_3-ABMC_Product\u002BIngredientes\\PII-ProductRepository-main\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{3388EA97-FF6A-4780-8190-C62CCC1463BF}|Repository2025.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3388EA97-FF6A-4780-8190-C62CCC1463BF}|Repository2025.csproj|d:\\utn\\---repo-github---\\--semana_3-abmc_product\u002Bingredientes\\pii-productrepository-main\\data\\implementations\\ingredientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "db_almacen_20250905.sql ",
               "DocumentMoniker": "D:\\UTN\\---Repo-Github---\\--Semana_3-ABMC_Product\u002BIngredientes\\PII-ProductRepository-main\\db_almacen_20250905.sql",
               "RelativeDocumentMoniker": "db_almacen_20250905.sql",
@@ -83,17 +83,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-09-04T19:17:46.589Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "db_almacen_20250901.sql",
-              "DocumentMoniker": "D:\\UTN\\---Repo-Github---\\--Semana_3-ABMC_Product\u002BIngredientes\\PII-ProductRepository-main\\db_almacen_20250901.sql",
-              "RelativeDocumentMoniker": "db_almacen_20250901.sql",
-              "ToolTip": "D:\\UTN\\---Repo-Github---\\--Semana_3-ABMC_Product\u002BIngredientes\\PII-ProductRepository-main\\db_almacen_20250901.sql",
-              "RelativeToolTip": "db_almacen_20250901.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-09-04T17:52:41.57Z"
             },
             {
               "$type": "Document",
@@ -133,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\UTN\\---Repo-Github---\\--Semana_3-ABMC_Product\u002BIngredientes\\PII-ProductRepository-main\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -193,7 +182,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\UTN\\---Repo-Github---\\--Semana_3-ABMC_Product\u002BIngredientes\\PII-ProductRepository-main\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "D:\\UTN\\---Repo-Github---\\--Semana_3-ABMC_Product\u002BIngredientes\\PII-ProductRepository-main\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-04T18:15:07.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "db_almacen_20250901.sql",
+              "DocumentMoniker": "D:\\UTN\\---Repo-Github---\\--Semana_3-ABMC_Product\u002BIngredientes\\PII-ProductRepository-main\\db_almacen_20250901.sql",
+              "RelativeDocumentMoniker": "db_almacen_20250901.sql",
+              "ToolTip": "D:\\UTN\\---Repo-Github---\\--Semana_3-ABMC_Product\u002BIngredientes\\PII-ProductRepository-main\\db_almacen_20250901.sql",
+              "RelativeToolTip": "db_almacen_20250901.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-04T17:52:41.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DataHelper.cs",
               "DocumentMoniker": "D:\\UTN\\---Repo-Github---\\--Semana_3-ABMC_Product\u002BIngredientes\\PII-ProductRepository-main\\Data\\Helpers\\DataHelper.cs",
               "RelativeDocumentMoniker": "Data\\Helpers\\DataHelper.cs",
@@ -201,19 +213,7 @@
               "RelativeToolTip": "Data\\Helpers\\DataHelper.cs",
               "ViewState": "AgIAAIsAAAAAAAAAAAAiwJQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T13:51:47.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Resources.resx",
-              "DocumentMoniker": "D:\\UTN\\---Repo-Github---\\--Semana_3-ABMC_Product\u002BIngredientes\\PII-ProductRepository-main\\Properties\\Resources.resx",
-              "RelativeDocumentMoniker": "Properties\\Resources.resx",
-              "ToolTip": "D:\\UTN\\---Repo-Github---\\--Semana_3-ABMC_Product\u002BIngredientes\\PII-ProductRepository-main\\Properties\\Resources.resx",
-              "RelativeToolTip": "Properties\\Resources.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-09-04T18:15:07.652Z"
+              "WhenOpened": "2025-09-03T13:51:47.131Z"
             },
             {
               "$type": "Document",
