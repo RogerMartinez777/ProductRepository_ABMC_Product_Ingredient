@@ -103,7 +103,7 @@ INSERT [dbo].[T_Productos] ([codigo], [n_producto], [stock], [esta_activo], [pre
 GO
 INSERT [dbo].[T_Productos] ([codigo], [n_producto], [stock], [esta_activo], [precio]) VALUES (4, N'7up Lima Limón', 225, 1, 1823.4)
 GO
-INSERT [dbo].[T_Productos] ([codigo], [n_producto], [stock], [esta_activo], [precio]) VALUES (5, N'Schweppes Zero Pomelo', 250, 0, 2990)
+INSERT [dbo].[T_Productos] ([codigo], [n_producto], [stock], [esta_activo], [precio]) VALUES (5, N'Schweppes Zero Pomelo', 250, 1, 2990)
 GO
 SET IDENTITY_INSERT [dbo].[T_Productos] OFF
 GO
