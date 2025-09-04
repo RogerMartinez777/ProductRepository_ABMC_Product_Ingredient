@@ -1,9 +1,9 @@
 USE [master]
 GO
 /****** Object:  Database [db_almacen]    Script Date: 9/2/2025 5:06:54 PM ******/
-CREATE DATABASE [db_almacen_con_ingrediente]
+CREATE DATABASE [db_almacen]
 GO
-USE [db_almacen_con_ingrediente]
+USE [db_almacen]
 GO
 /****** Object:  Table [dbo].[T_Detalles_Presupuesto]    Script Date: 9/2/2025 5:06:54 PM ******/
 SET ANSI_NULLS ON
